@@ -39,6 +39,7 @@ __**Conception Web**__ : `HTML5`, `CSS3`, `Responsive Design`, `Back End`.<br>
 **Latice**: Développement du jeux Latice en Java/JavaFX.<br>
 **Verger**: Développement du jeux Latice en Java/JavaFX en 7 versions évolutive.<br>
 **RayTracing** : Application de génération d'image avec lancer de rayon.<br>
+**RayTracing Application** : Application qui utilise notre premier projet de ray tracing, permettant à tout le monde et générer ses propres images et de tout stocker dans une base de données.<br>
 **GruppeSechs** **DashBoard** : Site web qui permet de gérer ses employés, générer des contrats et d'autre..<br>
 <br>
 👀 Découvrez plus dans mes [repositories](lien vers vos repositories). Même si malheureusement certains sont privé !
