@@ -27,11 +27,11 @@
 
 ### ▬▬ι═══════ﺤ
 
-Langages : `JavaScript`, `TypeScript`, `HTML`, `Python`, `Java`, `SQL`, `PHP`, `CSS`, `Kotlin`, `C`, `C++`, `Bash`
-Frameworks : `React`, `Node.js`, `Swing`
-Outils : `Git`, `GitHub`, `Docker`, `npm`
-Applications : `Visual Studio Code`, `JetBrains`
-Conception Web : `HTML5`, `CSS3`, `Responsive Design`, `Back End`
+Langages : `JavaScript`, `TypeScript`, `HTML`, `Python`, `Java`, `SQL`, `PHP`, `CSS`, `Kotlin`, `C`, `C++`, `Bash`. <br>
+Frameworks : `React`, `Node.js`, `Swing`.<br>
+Outils : `Git`, `GitHub`, `Docker`, `npm`.<br>
+Applications : `Visual Studio Code`, `JetBrains`.<br>
+Conception Web : `HTML5`, `CSS3`, `Responsive Design`, `Back End`.<br>
 
 ### ▬▬ι═══════ﺤ
 
@@ -41,11 +41,11 @@ Conception Web : `HTML5`, `CSS3`, `Responsive Design`, `Back End`
 
 ### ▬▬ι═══════ﺤ
 
-[Latice]: Développement du jeux Latice en Java/JavaFX.
-[Verger]: Développement du jeux Latice en Java/JavaFX en 7 versions évolutive.
-[RayTracing] : Application de génération d'image avec lancer de rayon.
-[GruppeSechs DashBoard] : Site web qui permet de gérer ses employés, générer des contrats et d'autre..
-
+Latice: Développement du jeux Latice en Java/JavaFX.<br>
+Verger: Développement du jeux Latice en Java/JavaFX en 7 versions évolutive.<br>
+RayTracing : Application de génération d'image avec lancer de rayon.<br>
+GruppeSechs DashBoard : Site web qui permet de gérer ses employés, générer des contrats et d'autre..<br>
+<br>
 👀 Découvrez plus dans mes [repositories](lien vers vos repositories). Même si malheureusement certains sont privé !
 
 ### ▬▬ι═══════ﺤ
