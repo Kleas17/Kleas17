@@ -14,11 +14,6 @@
 
 🌐 **PASSION** Je crée des expériences web immersives, alliant créativité et performance.
 
-<div style="font-style: italic; color: grey;">
-  Am just chilling, focusing and coding<br>
-  集中してコーディングして、ただ身も凍るようにしています
-</div>
-
 ### ▬▬ι═══════ﺤ
 
 <hr>
