@@ -63,4 +63,3 @@ __**Conception Web**__ : `HTML5`, `CSS3`, `Responsive Design`, `Back End`.<br>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=kleas17&show_icons=true&locale=en" alt="kleas17" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=kleas17&" alt="kleas17" /></p>
