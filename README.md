@@ -8,7 +8,7 @@
 
 ### ▬▬ι═══════ﺤ
 
-🧑‍💻 **QUI SUIS-JE ?** Je suis un jeune développeur web de 21 ans, spécialisé en JavaScript et TypeScript.
+🧑‍💻 **QUI SUIS-JE ?** Je suis un jeune développeur web de 23 ans, spécialisé en JavaScript et TypeScript.
 
 🎓 **ÉDUCATION** Actuellement en études supérieures, je me concentre sur le web et l'innovation technologique.
 
